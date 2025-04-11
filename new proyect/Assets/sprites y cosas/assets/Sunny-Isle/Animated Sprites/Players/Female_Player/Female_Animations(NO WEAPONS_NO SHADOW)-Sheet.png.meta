@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 4a3c0936690c56b4796eff22fffb9cd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3310562968187524107
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_0
+  - first:
+      213: -2831950898139102445
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_1
+  - first:
+      213: -7815609284443046032
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_2
+  - first:
+      213: 1522995561615528993
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_3
+  - first:
+      213: -6077164720315779887
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_4
+  - first:
+      213: -4017350757661303139
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_5
+  - first:
+      213: 1356875545555287539
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_6
+  - first:
+      213: 1851323377779030631
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_7
+  - first:
+      213: -2852430039624502993
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_8
+  - first:
+      213: -9046834622116069860
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_9
+  - first:
+      213: 8888631752883410304
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_10
+  - first:
+      213: 3689470716660659248
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_11
+  - first:
+      213: -6296954095548760993
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_12
+  - first:
+      213: 7717192333299721880
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_13
+  - first:
+      213: 4390948754971929093
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_14
+  - first:
+      213: -3968536398805455012
+    second: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 480
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04516dba7b71fd20800000000000000
+      internalID: 3310562968187524107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 448
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313021799a3e2b8d0800000000000000
+      internalID: -2831950898139102445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 416
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ff681c3c0698390800000000000000
+      internalID: -7815609284443046032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 384
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1241794e464c22510800000000000000
+      internalID: 1522995561615528993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 352
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ba0492e299aba0800000000000000
+      internalID: -6077164720315779887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 320
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e937f45c08f38c0800000000000000
+      internalID: -4017350757661303139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 288
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdbc31ae1794d210800000000000000
+      internalID: 1356875545555287539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a35e8adc831b910800000000000000
+      internalID: 1851323377779030631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 224
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f213785edf12a68d0800000000000000
+      internalID: -2852430039624502993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ef017e7df237280800000000000000
+      internalID: -9046834622116069860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0859fd93c73ca5b70800000000000000
+      internalID: 8888631752883410304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b3c3b112a33330800000000000000
+      internalID: 3689470716660659248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cffdfdc99bc98a0800000000000000
+      internalID: -6296954095548760993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a2b92a89f81b60800000000000000
+      internalID: 7717192333299721880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aab0fd0a8cfec30800000000000000
+      internalID: 4390948754971929093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f2ef6eb2dece8c0800000000000000
+      internalID: -3968536398805455012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3380 @@
+fileFormatVersion: 2
+guid: 3987e672dbf68e940a3e5b65f8ee77e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4668134723836686793
+    second: UI_Autumn_By_VerzatileDev_0
+  - first:
+      213: -8821003142659063949
+    second: UI_Autumn_By_VerzatileDev_1
+  - first:
+      213: 1569100868652593464
+    second: UI_Autumn_By_VerzatileDev_2
+  - first:
+      213: 6195478603403784045
+    second: UI_Autumn_By_VerzatileDev_3
+  - first:
+      213: 3989987769391259690
+    second: UI_Autumn_By_VerzatileDev_4
+  - first:
+      213: 4766298108438079947
+    second: UI_Autumn_By_VerzatileDev_5
+  - first:
+      213: -3969145857343103925
+    second: UI_Autumn_By_VerzatileDev_6
+  - first:
+      213: 4498884904723841683
+    second: UI_Autumn_By_VerzatileDev_7
+  - first:
+      213: 3725356675012975285
+    second: UI_Autumn_By_VerzatileDev_8
+  - first:
+      213: -1028894342194437343
+    second: UI_Autumn_By_VerzatileDev_9
+  - first:
+      213: -7081410810561682963
+    second: UI_Autumn_By_VerzatileDev_10
+  - first:
+      213: 8650582741059392584
+    second: UI_Autumn_By_VerzatileDev_11
+  - first:
+      213: 2473593078489206653
+    second: UI_Autumn_By_VerzatileDev_12
+  - first:
+      213: 4356785628784656571
+    second: UI_Autumn_By_VerzatileDev_13
+  - first:
+      213: 1936137062446621221
+    second: UI_Autumn_By_VerzatileDev_14
+  - first:
+      213: -4638012801221296073
+    second: UI_Autumn_By_VerzatileDev_15
+  - first:
+      213: 7507309635780783599
+    second: UI_Autumn_By_VerzatileDev_16
+  - first:
+      213: -8912157708692477038
+    second: UI_Autumn_By_VerzatileDev_17
+  - first:
+      213: -3998951495156881907
+    second: UI_Autumn_By_VerzatileDev_18
+  - first:
+      213: -2464426796240847439
+    second: UI_Autumn_By_VerzatileDev_19
+  - first:
+      213: -5629768342044068003
+    second: UI_Autumn_By_VerzatileDev_20
+  - first:
+      213: 5935505205174913599
+    second: UI_Autumn_By_VerzatileDev_21
+  - first:
+      213: 3346945106415750443
+    second: UI_Autumn_By_VerzatileDev_22
+  - first:
+      213: 3360644157631897597
+    second: UI_Autumn_By_VerzatileDev_23
+  - first:
+      213: 5607196570635916850
+    second: UI_Autumn_By_VerzatileDev_24
+  - first:
+      213: 7399508008529131113
+    second: UI_Autumn_By_VerzatileDev_25
+  - first:
+      213: -5747239871241504029
+    second: UI_Autumn_By_VerzatileDev_26
+  - first:
+      213: -901949509138536390
+    second: UI_Autumn_By_VerzatileDev_27
+  - first:
+      213: -7481591767107341191
+    second: UI_Autumn_By_VerzatileDev_28
+  - first:
+      213: -1157268131988600968
+    second: UI_Autumn_By_VerzatileDev_29
+  - first:
+      213: -6394944046882730491
+    second: UI_Autumn_By_VerzatileDev_30
+  - first:
+      213: 2045881341715983
+    second: UI_Autumn_By_VerzatileDev_31
+  - first:
+      213: 8427701422308711600
+    second: UI_Autumn_By_VerzatileDev_32
+  - first:
+      213: -8850698853636971592
+    second: UI_Autumn_By_VerzatileDev_33
+  - first:
+      213: 4133472533687992754
+    second: UI_Autumn_By_VerzatileDev_34
+  - first:
+      213: -5394407389403998595
+    second: UI_Autumn_By_VerzatileDev_35
+  - first:
+      213: -2675780077655845941
+    second: UI_Autumn_By_VerzatileDev_36
+  - first:
+      213: -1481214639118569350
+    second: UI_Autumn_By_VerzatileDev_37
+  - first:
+      213: -5189102171795631205
+    second: UI_Autumn_By_VerzatileDev_38
+  - first:
+      213: 8609808030348482587
+    second: UI_Autumn_By_VerzatileDev_39
+  - first:
+      213: -8511226276615306415
+    second: UI_Autumn_By_VerzatileDev_40
+  - first:
+      213: -5533574908451676463
+    second: UI_Autumn_By_VerzatileDev_41
+  - first:
+      213: -6664621138119204120
+    second: UI_Autumn_By_VerzatileDev_42
+  - first:
+      213: 726194714385737875
+    second: UI_Autumn_By_VerzatileDev_43
+  - first:
+      213: 2113727020738323409
+    second: UI_Autumn_By_VerzatileDev_44
+  - first:
+      213: -3568456103737733792
+    second: UI_Autumn_By_VerzatileDev_45
+  - first:
+      213: 6575100891056556225
+    second: UI_Autumn_By_VerzatileDev_46
+  - first:
+      213: -8478165747651639405
+    second: UI_Autumn_By_VerzatileDev_47
+  - first:
+      213: -185482605431940921
+    second: UI_Autumn_By_VerzatileDev_48
+  - first:
+      213: 4436675673983882706
+    second: UI_Autumn_By_VerzatileDev_49
+  - first:
+      213: 2957652618962504861
+    second: UI_Autumn_By_VerzatileDev_50
+  - first:
+      213: 4642525436940764171
+    second: UI_Autumn_By_VerzatileDev_51
+  - first:
+      213: 280526405763373624
+    second: UI_Autumn_By_VerzatileDev_52
+  - first:
+      213: 2605416348352176515
+    second: UI_Autumn_By_VerzatileDev_53
+  - first:
+      213: 2210581448637820336
+    second: UI_Autumn_By_VerzatileDev_54
+  - first:
+      213: 840199100078156219
+    second: UI_Autumn_By_VerzatileDev_55
+  - first:
+      213: -5256974515054072070
+    second: UI_Autumn_By_VerzatileDev_56
+  - first:
+      213: 6371810431245393432
+    second: UI_Autumn_By_VerzatileDev_57
+  - first:
+      213: -2944955464323352802
+    second: UI_Autumn_By_VerzatileDev_58
+  - first:
+      213: -3308751779853107563
+    second: UI_Autumn_By_VerzatileDev_59
+  - first:
+      213: 7031775843443804410
+    second: UI_Autumn_By_VerzatileDev_60
+  - first:
+      213: 9173990033425824867
+    second: UI_Autumn_By_VerzatileDev_61
+  - first:
+      213: -5144016119656840661
+    second: UI_Autumn_By_VerzatileDev_62
+  - first:
+      213: -8426525868989087449
+    second: UI_Autumn_By_VerzatileDev_63
+  - first:
+      213: 8144039381719022402
+    second: UI_Autumn_By_VerzatileDev_64
+  - first:
+      213: 1453739722101189417
+    second: UI_Autumn_By_VerzatileDev_65
+  - first:
+      213: -1446634211628118335
+    second: UI_Autumn_By_VerzatileDev_66
+  - first:
+      213: 3578501680028583554
+    second: UI_Autumn_By_VerzatileDev_67
+  - first:
+      213: -4397337012513722486
+    second: UI_Autumn_By_VerzatileDev_68
+  - first:
+      213: 647835872741300836
+    second: UI_Autumn_By_VerzatileDev_69
+  - first:
+      213: 4464508843498089799
+    second: UI_Autumn_By_VerzatileDev_70
+  - first:
+      213: 3256040994468670847
+    second: UI_Autumn_By_VerzatileDev_71
+  - first:
+      213: -3526361723143374667
+    second: UI_Autumn_By_VerzatileDev_72
+  - first:
+      213: -5153495978665623963
+    second: UI_Autumn_By_VerzatileDev_73
+  - first:
+      213: 8000688272088164092
+    second: UI_Autumn_By_VerzatileDev_74
+  - first:
+      213: -2957447014844705960
+    second: UI_Autumn_By_VerzatileDev_75
+  - first:
+      213: 8828639517311025037
+    second: UI_Autumn_By_VerzatileDev_76
+  - first:
+      213: -588216914121318822
+    second: UI_Autumn_By_VerzatileDev_77
+  - first:
+      213: -3992716262483410590
+    second: UI_Autumn_By_VerzatileDev_78
+  - first:
+      213: -2934078206730734584
+    second: UI_Autumn_By_VerzatileDev_79
+  - first:
+      213: -8555067728129812127
+    second: UI_Autumn_By_VerzatileDev_80
+  - first:
+      213: 6004586711741691015
+    second: UI_Autumn_By_VerzatileDev_81
+  - first:
+      213: -2275352815859740810
+    second: UI_Autumn_By_VerzatileDev_82
+  - first:
+      213: -1176064559184707816
+    second: UI_Autumn_By_VerzatileDev_83
+  - first:
+      213: 7485054991237185909
+    second: UI_Autumn_By_VerzatileDev_84
+  - first:
+      213: -1351725521350870187
+    second: UI_Autumn_By_VerzatileDev_85
+  - first:
+      213: 4612034011913801083
+    second: UI_Autumn_By_VerzatileDev_86
+  - first:
+      213: -8734246309878694844
+    second: UI_Autumn_By_VerzatileDev_87
+  - first:
+      213: -2379671625412094156
+    second: UI_Autumn_By_VerzatileDev_88
+  - first:
+      213: -7893202350425195164
+    second: UI_Autumn_By_VerzatileDev_89
+  - first:
+      213: 8232883524374476486
+    second: UI_Autumn_By_VerzatileDev_90
+  - first:
+      213: 164443589805539504
+    second: UI_Autumn_By_VerzatileDev_91
+  - first:
+      213: 8920229189367387642
+    second: UI_Autumn_By_VerzatileDev_92
+  - first:
+      213: 5095080394216288031
+    second: UI_Autumn_By_VerzatileDev_93
+  - first:
+      213: -2304401033144903722
+    second: UI_Autumn_By_VerzatileDev_94
+  - first:
+      213: -4041472263467261350
+    second: UI_Autumn_By_VerzatileDev_95
+  - first:
+      213: 3194913205198240704
+    second: UI_Autumn_By_VerzatileDev_96
+  - first:
+      213: -3382177603758597770
+    second: UI_Autumn_By_VerzatileDev_97
+  - first:
+      213: -3955492788163193891
+    second: UI_Autumn_By_VerzatileDev_98
+  - first:
+      213: -2067062008282525437
+    second: UI_Autumn_By_VerzatileDev_99
+  - first:
+      213: 8852249822786860602
+    second: UI_Autumn_By_VerzatileDev_100
+  - first:
+      213: 8782962045858284837
+    second: UI_Autumn_By_VerzatileDev_101
+  - first:
+      213: -8023505881983465748
+    second: UI_Autumn_By_VerzatileDev_102
+  - first:
+      213: 2192968833664846917
+    second: UI_Autumn_By_VerzatileDev_103
+  - first:
+      213: -8266504979789993441
+    second: UI_Autumn_By_VerzatileDev_104
+  - first:
+      213: 3667411271603139705
+    second: UI_Autumn_By_VerzatileDev_105
+  - first:
+      213: -3608084044003637561
+    second: UI_Autumn_By_VerzatileDev_106
+  - first:
+      213: -1853987445816889973
+    second: UI_Autumn_By_VerzatileDev_107
+  - first:
+      213: 8574733465093136851
+    second: UI_Autumn_By_VerzatileDev_108
+  - first:
+      213: -1229638734817721714
+    second: UI_Autumn_By_VerzatileDev_109
+  - first:
+      213: 7258994513883197187
+    second: UI_Autumn_By_VerzatileDev_110
+  - first:
+      213: -2327027288195652958
+    second: UI_Autumn_By_VerzatileDev_111
+  - first:
+      213: 7355354538148784593
+    second: UI_Autumn_By_VerzatileDev_112
+  - first:
+      213: 2634216854599892813
+    second: UI_Autumn_By_VerzatileDev_113
+  - first:
+      213: 3358389635246316486
+    second: UI_Autumn_By_VerzatileDev_114
+  - first:
+      213: 6441077981703519859
+    second: UI_Autumn_By_VerzatileDev_115
+  - first:
+      213: 6081937747606526961
+    second: UI_Autumn_By_VerzatileDev_116
+  - first:
+      213: -1578477702726445487
+    second: UI_Autumn_By_VerzatileDev_117
+  - first:
+      213: -7884651074734062767
+    second: UI_Autumn_By_VerzatileDev_118
+  - first:
+      213: 5563166021801530295
+    second: UI_Autumn_By_VerzatileDev_119
+  - first:
+      213: 5112870935781242200
+    second: UI_Autumn_By_VerzatileDev_120
+  - first:
+      213: 6905459209497861315
+    second: UI_Autumn_By_VerzatileDev_121
+  - first:
+      213: 2774734453515506
+    second: UI_Autumn_By_VerzatileDev_122
+  - first:
+      213: -2507182033621332719
+    second: UI_Autumn_By_VerzatileDev_123
+  - first:
+      213: 1640240092149801739
+    second: UI_Autumn_By_VerzatileDev_124
+  - first:
+      213: -4726626647875586313
+    second: UI_Autumn_By_VerzatileDev_125
+  - first:
+      213: -5408727826728012804
+    second: UI_Autumn_By_VerzatileDev_126
+  - first:
+      213: 6431421370466786454
+    second: UI_Autumn_By_VerzatileDev_127
+  - first:
+      213: 7891439079237664158
+    second: UI_Autumn_By_VerzatileDev_128
+  - first:
+      213: -4516658658531509416
+    second: UI_Autumn_By_VerzatileDev_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3149
+        width: 250
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e4c069334773fb0800000000000000
+      internalID: -4668134723836686793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3168
+        width: 250
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fb33f9060859580800000000000000
+      internalID: -8821003142659063949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3168
+        width: 250
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8317bc43de096c510800000000000000
+      internalID: 1569100868652593464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_3
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 3218
+        width: 97
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f6a69f6f2caf550800000000000000
+      internalID: 6195478603403784045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_4
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3231
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2028b48cb84f5730800000000000000
+      internalID: 3989987769391259690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_5
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 3231
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9611f60ea452240800000000000000
+      internalID: 4766298108438079947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_6
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 3218
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cd9574fd2cae8c0800000000000000
+      internalID: -3969145857343103925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_7
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 3241
+        width: 396
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3928e671cff3f6e30800000000000000
+      internalID: 4498884904723841683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_8
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 3263
+        width: 374
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba57cb782023b330800000000000000
+      internalID: 3725356675012975285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_9
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 3027
+        width: 44
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123671e0c02a8b1f0800000000000000
+      internalID: -1028894342194437343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_10
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 3027
+        width: 43
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de12cdff266c9bd90800000000000000
+      internalID: -7081410810561682963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2857
+        width: 250
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84458f49b2b0d0870800000000000000
+      internalID: 8650582741059392584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_12
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2872
+        width: 250
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fc63a9cc7f35220800000000000000
+      internalID: 2473593078489206653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_13
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2871
+        width: 250
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb08c363279667c30800000000000000
+      internalID: 4356785628784656571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_14
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2925
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5226993766a8eda10800000000000000
+      internalID: 1936137062446621221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_15
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2937
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7308d773ee772afb0800000000000000
+      internalID: -4638012801221296073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_16
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2937
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda49b96525f2860800000000000000
+      internalID: 7507309635780783599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_17
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2929
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b202758c7a15480800000000000000
+      internalID: -8912157708692477038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_18
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 2948
+        width: 396
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0628217dced088c0800000000000000
+      internalID: -3998951495156881907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_19
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2967
+        width: 374
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd3c1bc2e89ccdd0800000000000000
+      internalID: -2464426796240847439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2569
+        width: 250
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5739bc458b0fd1b0800000000000000
+      internalID: -5629768342044068003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_21
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2584
+        width: 250
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3acee459862f5250800000000000000
+      internalID: 5935505205174913599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_22
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2580
+        width: 250
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d84a667dcb27e20800000000000000
+      internalID: 3346945106415750443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_23
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2628
+        width: 97
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff14205e0863ae20800000000000000
+      internalID: 3360644157631897597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_24
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2648
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236da82a293c0dd40800000000000000
+      internalID: 5607196570635916850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_25
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2648
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9667909545550b660800000000000000
+      internalID: 7399508008529131113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_26
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2642
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea30bb89c3bd30b0800000000000000
+      internalID: -5747239871241504029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_27
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 2661
+        width: 396
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38a57e33b1ab73f0800000000000000
+      internalID: -901949509138536390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_28
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2679
+        width: 374
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974741f4deb0c2890800000000000000
+      internalID: -7481591767107341191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_29
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 2563
+        width: 44
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87780f2f3ce80ffe0800000000000000
+      internalID: -1157268131988600968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_30
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 2563
+        width: 44
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e4e0f65489047a0800000000000000
+      internalID: -6394944046882730491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2269
+        width: 250
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0620aed7b4470000800000000000000
+      internalID: 2045881341715983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_32
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2280
+        width: 250
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcd3cdaac535f470800000000000000
+      internalID: 8427701422308711600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_33
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2279
+        width: 250
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3e20f19400c2580800000000000000
+      internalID: -8850698853636971592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_34
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2324
+        width: 97
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18e4b8e5b0d5930800000000000000
+      internalID: 4133472533687992754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_35
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2338
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7615d46f073325b0800000000000000
+      internalID: -5394407389403998595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_36
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2338
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3914e3238bddad0800000000000000
+      internalID: -2675780077655845941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_37
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2324
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70ba3f222ba17be0800000000000000
+      internalID: -1481214639118569350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_38
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 2345
+        width: 396
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d9ea511b9cf7b0800000000000000
+      internalID: -5189102171795631205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_39
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2365
+        width: 374
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b181a3179ce2c7770800000000000000
+      internalID: 8609808030348482587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_40
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 2066
+        width: 43
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153cf5bbbcc02e980800000000000000
+      internalID: -8511226276615306415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_41
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 2066
+        width: 44
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de19bb50fac433b0800000000000000
+      internalID: -5533574908451676463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1970
+        width: 250
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e268d3b2628283a0800000000000000
+      internalID: -6664621138119204120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_43
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1989
+        width: 250
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3986ab4ce36f31a00800000000000000
+      internalID: 726194714385737875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_44
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1985
+        width: 250
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3a04fb687755d10800000000000000
+      internalID: 2113727020738323409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_45
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2027
+        width: 97
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d4324841c4a7ec0800000000000000
+      internalID: -3568456103737733792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_46
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2043
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c7cd8c637f3b50800000000000000
+      internalID: 6575100891056556225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_47
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2043
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3970758fb21875a80800000000000000
+      internalID: -8478165747651639405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_48
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2029
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c817379d880d6df0800000000000000
+      internalID: -185482605431940921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_49
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 2058
+        width: 396
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d51d6bd40d329d30800000000000000
+      internalID: 4436675673983882706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_50
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2081
+        width: 374
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c834af261bb0920800000000000000
+      internalID: 2957652618962504861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_51
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1581
+        width: 250
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04c199a9409d6040800000000000000
+      internalID: 4642525436940764171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_52
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1600
+        width: 247
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a94ad9741a4e300800000000000000
+      internalID: 280526405763373624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_53
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1600
+        width: 247
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381e68f5d5c482420800000000000000
+      internalID: 2605416348352176515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_54
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1675
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd20298d109dae10800000000000000
+      internalID: 2210581448637820336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_55
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1676
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9e2c441acf8ab00800000000000000
+      internalID: 840199100078156219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_56
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1679
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeabecf7897b07b0800000000000000
+      internalID: -5256974515054072070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_57
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1744
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e9282f3d73d6850800000000000000
+      internalID: 6371810431245393432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_58
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1748
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1739a5bb9a6127d0800000000000000
+      internalID: -2944955464323352802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_59
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1685
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ef9e769c3f412d0800000000000000
+      internalID: -3308751779853107563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_60
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1675
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af804a8afd2e59160800000000000000
+      internalID: 7031775843443804410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_61
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1675
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cf15b545f805f70800000000000000
+      internalID: 9173990033425824867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_62
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 1676
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2288f4e798cc98b0800000000000000
+      internalID: -5144016119656840661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_63
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1679
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72104482e57fe0b80800000000000000
+      internalID: -8426525868989087449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_64
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 1744
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b77203ba0750170800000000000000
+      internalID: 8144039381719022402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_65
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 1748
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b67b33398bc2410800000000000000
+      internalID: 1453739722101189417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_66
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1685
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce8aff59d58cebe0800000000000000
+      internalID: -1446634211628118335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_67
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 1675
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2860e3a715469a130800000000000000
+      internalID: 3578501680028583554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_68
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1714
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f2173094589f2c0800000000000000
+      internalID: -4397337012513722486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_69
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1717
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a108b3b439df800800000000000000
+      internalID: 647835872741300836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_70
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 1714
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d2b41a32f15fd30800000000000000
+      internalID: 4464508843498089799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_71
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 1717
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d2a618808cf2d20800000000000000
+      internalID: 3256040994468670847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_72
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8318e32b8df0fc0800000000000000
+      internalID: -3526361723143374667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_73
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1685
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e3b3836ba1b78b0800000000000000
+      internalID: -5153495978665623963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_74
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 1683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6e2701897280f60800000000000000
+      internalID: 8000688272088164092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_75
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 1685
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535426fb9905f6d0800000000000000
+      internalID: -2957447014844705960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_76
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1244
+        width: 250
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fbc476dd0a58a70800000000000000
+      internalID: 8828639517311025037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_77
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1262
+        width: 247
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e1ce645db36d7f0800000000000000
+      internalID: -588216914121318822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_78
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1262
+        width: 247
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26140cda6b50798c0800000000000000
+      internalID: -3992716262483410590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_79
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1334
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80479989a6f0847d0800000000000000
+      internalID: -2934078206730734584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_80
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1368
+        width: 121
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1691a6b5a3b464980800000000000000
+      internalID: -8555067728129812127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_81
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1336
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784f468fcc3945350800000000000000
+      internalID: 6004586711741691015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_82
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1340
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fcef75ba25c60e0800000000000000
+      internalID: -2275352815859740810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_83
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1355
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f7ed4b387cdafe0800000000000000
+      internalID: -1176064559184707816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_84
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 1334
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57105f46bd140e760800000000000000
+      internalID: 7485054991237185909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_85
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 1368
+        width: 121
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b3d02dcc4bd3de0800000000000000
+      internalID: -1351725521350870187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_86
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 1336
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d442c8f7c310040800000000000000
+      internalID: 4612034011913801083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_87
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1340
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cf9e6d149b9c680800000000000000
+      internalID: -8734246309878694844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_88
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 1355
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4375c35c345b9fed0800000000000000
+      internalID: -2379671625412094156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_89
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 892
+        width: 250
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46db0a24846b57290800000000000000
+      internalID: -7893202350425195164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_90
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 911
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6b18b12f3114270800000000000000
+      internalID: 8232883524374476486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_91
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 911
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b003fbd298384200800000000000000
+      internalID: 164443589805539504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_92
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 971
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55053bf250bcb70800000000000000
+      internalID: 8920229189367387642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_93
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 991
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fa157af9c55b640800000000000000
+      internalID: 5095080394216288031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_94
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1002
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7da57387f1500e0800000000000000
+      internalID: -2304401033144903722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_95
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1010
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52a076936ec9e7c0800000000000000
+      internalID: -4041472263467261350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_96
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1003
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbbb0cf1ac965c20800000000000000
+      internalID: 3194913205198240704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_97
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 971
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679dfa093671011d0800000000000000
+      internalID: -3382177603758597770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_98
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 991
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d9e924444b19c0800000000000000
+      internalID: -3955492788163193891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_99
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 1002
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3015d932e025053e0800000000000000
+      internalID: -2067062008282525437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_100
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1010
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36b936005289da70800000000000000
+      internalID: 8852249822786860602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_101
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1003
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250f13527953e970800000000000000
+      internalID: 8782962045858284837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_102
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 526
+        width: 250
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce64e1329e7c6a090800000000000000
+      internalID: -8023505881983465748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_103
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 544
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c881e098dfe6e10800000000000000
+      internalID: 2192968833664846917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_104
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 544
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aae99c489774d80800000000000000
+      internalID: -8266504979789993441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_105
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 613
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9743b29ee1345e230800000000000000
+      internalID: 3667411271603139705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_106
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 636
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6886dada28dedc0800000000000000
+      internalID: -3608084044003637561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_107
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 636
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dec0aad305546e0800000000000000
+      internalID: -1853987445816889973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_108
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 647
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e786d7a29ff670800000000000000
+      internalID: 8574733465093136851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_109
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 638
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e820129e5127feee0800000000000000
+      internalID: -1229638734817721714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_110
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 630
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f6482fc012db460800000000000000
+      internalID: 7258994513883197187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_111
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 649
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22570b20db4bfd0800000000000000
+      internalID: -2327027288195652958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_112
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 649
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d96a6b6bf7731660800000000000000
+      internalID: 7355354538148784593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_113
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 651
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ff5c7c54e9e8420800000000000000
+      internalID: 2634216854599892813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_114
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 638
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbd53a64956b9e20800000000000000
+      internalID: 3358389635246316486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_115
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 161
+        width: 250
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e370e4c4e436950800000000000000
+      internalID: 6441077981703519859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_116
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 179
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb50207822676450800000000000000
+      internalID: 6081937747606526961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_117
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 179
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1569d1b74ee181ae0800000000000000
+      internalID: -1578477702726445487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_118
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 255
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15303984f97149290800000000000000
+      internalID: -7884651074734062767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_119
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 255
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d00c9506543d40800000000000000
+      internalID: 5563166021801530295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_120
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 286
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f8a5e60194f640800000000000000
+      internalID: 5112870935781242200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_121
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 275
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccd119709e15df50800000000000000
+      internalID: 6905459209497861315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_122
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 269
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a2753b9bd90000800000000000000
+      internalID: 2774734453515506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_123
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 342
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d42ca5933b43dd0800000000000000
+      internalID: -2507182033621332719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_124
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 255
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0361f66cad43c610800000000000000
+      internalID: 1640240092149801739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_125
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 255
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6fa734b16a76eb0800000000000000
+      internalID: -4726626647875586313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_126
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 286
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf33b11c2b650f4b0800000000000000
+      internalID: -5408727826728012804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_127
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 275
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c578b49aff04950800000000000000
+      internalID: 6431421370466786454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_128
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 269
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9db89c2806048d60800000000000000
+      internalID: 7891439079237664158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Autumn_By_VerzatileDev_129
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 342
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b798e51ea9151c0800000000000000
+      internalID: -4516658658531509416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

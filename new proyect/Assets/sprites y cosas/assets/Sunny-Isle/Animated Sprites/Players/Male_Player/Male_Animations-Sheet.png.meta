@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: e589cfdfcaa7ded4e8ab3845a8f41c6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1879711165075069688
+    second: Male_Animations-Sheet_0
+  - first:
+      213: 4467358101608269986
+    second: Male_Animations-Sheet_1
+  - first:
+      213: -8270689037422824622
+    second: Male_Animations-Sheet_2
+  - first:
+      213: 197619334459021571
+    second: Male_Animations-Sheet_3
+  - first:
+      213: 8735916258481317060
+    second: Male_Animations-Sheet_4
+  - first:
+      213: -8559659513870201560
+    second: Male_Animations-Sheet_5
+  - first:
+      213: 7968117587639923990
+    second: Male_Animations-Sheet_6
+  - first:
+      213: -6896107053222372695
+    second: Male_Animations-Sheet_7
+  - first:
+      213: -4214918413977877239
+    second: Male_Animations-Sheet_8
+  - first:
+      213: 5118059224862122727
+    second: Male_Animations-Sheet_9
+  - first:
+      213: 8786495223035151332
+    second: Male_Animations-Sheet_10
+  - first:
+      213: 2357826300543214175
+    second: Male_Animations-Sheet_11
+  - first:
+      213: -8089434421356709558
+    second: Male_Animations-Sheet_12
+  - first:
+      213: -563388611702217297
+    second: Male_Animations-Sheet_13
+  - first:
+      213: -3603570990351757927
+    second: Male_Animations-Sheet_14
+  - first:
+      213: -1626053664431386144
+    second: Male_Animations-Sheet_15
+  - first:
+      213: 8904866781155088782
+    second: Male_Animations-Sheet_16
+  - first:
+      213: 6512090495629251281
+    second: Male_Animations-Sheet_17
+  - first:
+      213: -500190492954561237
+    second: Male_Animations-Sheet_18
+  - first:
+      213: -1746725654429957500
+    second: Male_Animations-Sheet_19
+  - first:
+      213: 5951983234036278805
+    second: Male_Animations-Sheet_20
+  - first:
+      213: 2983720213058514917
+    second: Male_Animations-Sheet_21
+  - first:
+      213: 2568536684242950511
+    second: Male_Animations-Sheet_22
+  - first:
+      213: 1557674765897079242
+    second: Male_Animations-Sheet_23
+  - first:
+      213: -2786992136268276251
+    second: Male_Animations-Sheet_24
+  - first:
+      213: -3117293262911196314
+    second: Male_Animations-Sheet_25
+  - first:
+      213: 8331163028560069770
+    second: Male_Animations-Sheet_26
+  - first:
+      213: -2895554559877744938
+    second: Male_Animations-Sheet_27
+  - first:
+      213: -6438204738817044941
+    second: Male_Animations-Sheet_28
+  - first:
+      213: -1865710185327326967
+    second: Male_Animations-Sheet_29
+  - first:
+      213: -2502301257826253881
+    second: Male_Animations-Sheet_30
+  - first:
+      213: 4229156893283635535
+    second: Male_Animations-Sheet_31
+  - first:
+      213: 1389858817716414589
+    second: Male_Animations-Sheet_32
+  - first:
+      213: -645421126571723574
+    second: Male_Animations-Sheet_33
+  - first:
+      213: 1988331593130227511
+    second: Male_Animations-Sheet_34
+  - first:
+      213: -1850902230236610414
+    second: Male_Animations-Sheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 991
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa92a27853161a10800000000000000
+      internalID: 1879711165075069688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 959
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a803da368e3ffd30800000000000000
+      internalID: 4467358101608269986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 927
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253f1b4f32c983d80800000000000000
+      internalID: -8270689037422824622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 895
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309dd27dcb51eb200800000000000000
+      internalID: 197619334459021571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 863
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a65e5d853c3970800000000000000
+      internalID: 8735916258481317060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 831
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d497de50bf53980800000000000000
+      internalID: -8559659513870201560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 799
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615f1d3aab0749e60800000000000000
+      internalID: 7968117587639923990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 767
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa5d971c2b1c40a0800000000000000
+      internalID: -6896107053222372695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 735
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9058899b80a9185c0800000000000000
+      internalID: -4214918413977877239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 703
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e261559fbff60740800000000000000
+      internalID: 5118059224862122727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 671
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e34dad3ad6efe970800000000000000
+      internalID: 8786495223035151332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 639
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52a3fd278ea8b020800000000000000
+      internalID: 2357826300543214175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 607
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a493731e04e8cbf80800000000000000
+      internalID: -8089434421356709558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 575
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52df8ea017e28f0800000000000000
+      internalID: -563388611702217297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 543
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4e2dd64b8dfdc0800000000000000
+      internalID: -3603570990351757927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 511
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e158d1bec81f69e0800000000000000
+      internalID: -1626053664431386144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 479
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89dcee4821749b70800000000000000
+      internalID: 8904866781155088782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 447
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2dd21adc79f5a50800000000000000
+      internalID: 6512090495629251281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 415
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b257a639567fe09f0800000000000000
+      internalID: -500190492954561237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 383
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48204a7954262c7e0800000000000000
+      internalID: -1746725654429957500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 351
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51620d56731b99250800000000000000
+      internalID: 5951983234036278805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6180b9bd486920800000000000000
+      internalID: 2983720213058514917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 293
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f695cd0718645a320800000000000000
+      internalID: 2568536684242950511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac992e852f8fd9510800000000000000
+      internalID: 1557674765897079242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 261
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed1ced0b6d9259d0800000000000000
+      internalID: -2786992136268276251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b5732b462db4d0800000000000000
+      internalID: -3117293262911196314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84c03352ac3e9370800000000000000
+      internalID: 8331163028560069770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d679b6187ce0d7d0800000000000000
+      internalID: -2895554559877744938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ec29fa6e6e6a6a0800000000000000
+      internalID: -6438204738817044941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9098cbda87aab16e0800000000000000
+      internalID: -1865710185327326967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 159
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3c046834a064dd0800000000000000
+      internalID: -2502301257826253881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d09399cbf0ba30800000000000000
+      internalID: 4229156893283635535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d786eed1b35c94310800000000000000
+      internalID: 1389858817716414589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4f82ca7e00b07f0800000000000000
+      internalID: -645421126571723574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737b630ac09f79b10800000000000000
+      internalID: 1988331593130227511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Animations-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c4c46a364056e0800000000000000
+      internalID: -1850902230236610414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

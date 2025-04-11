@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: fbabc7fb5670e564aaa418620fa572e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1779796767436721679
+    second: Female_Animations-Sheet_0
+  - first:
+      213: -1904508157426105097
+    second: Female_Animations-Sheet_1
+  - first:
+      213: 814608083041868299
+    second: Female_Animations-Sheet_2
+  - first:
+      213: 5839192966528392510
+    second: Female_Animations-Sheet_3
+  - first:
+      213: 3811879445472469481
+    second: Female_Animations-Sheet_4
+  - first:
+      213: 1414162327104419797
+    second: Female_Animations-Sheet_5
+  - first:
+      213: 5432109512357548092
+    second: Female_Animations-Sheet_6
+  - first:
+      213: 3540268557102105638
+    second: Female_Animations-Sheet_7
+  - first:
+      213: -4994972486475322975
+    second: Female_Animations-Sheet_8
+  - first:
+      213: -3882702821857944762
+    second: Female_Animations-Sheet_9
+  - first:
+      213: -7088556634971818230
+    second: Female_Animations-Sheet_10
+  - first:
+      213: 932631131187193236
+    second: Female_Animations-Sheet_11
+  - first:
+      213: -7119802378268560342
+    second: Female_Animations-Sheet_12
+  - first:
+      213: 4796081241737938689
+    second: Female_Animations-Sheet_13
+  - first:
+      213: 8532680360204084803
+    second: Female_Animations-Sheet_14
+  - first:
+      213: -2299616756783314201
+    second: Female_Animations-Sheet_15
+  - first:
+      213: 8605216666363600856
+    second: Female_Animations-Sheet_16
+  - first:
+      213: 5776779256543327364
+    second: Female_Animations-Sheet_17
+  - first:
+      213: -7379898846211865236
+    second: Female_Animations-Sheet_18
+  - first:
+      213: -1734168755232838327
+    second: Female_Animations-Sheet_19
+  - first:
+      213: -7634778729241504042
+    second: Female_Animations-Sheet_20
+  - first:
+      213: 8871729657331474269
+    second: Female_Animations-Sheet_21
+  - first:
+      213: -5434286003146903245
+    second: Female_Animations-Sheet_22
+  - first:
+      213: 1603669304746170360
+    second: Female_Animations-Sheet_23
+  - first:
+      213: 1061701279711761218
+    second: Female_Animations-Sheet_24
+  - first:
+      213: -681757605469009510
+    second: Female_Animations-Sheet_25
+  - first:
+      213: 5561118596966974069
+    second: Female_Animations-Sheet_26
+  - first:
+      213: -5700629345207076229
+    second: Female_Animations-Sheet_27
+  - first:
+      213: -7778849529130259172
+    second: Female_Animations-Sheet_28
+  - first:
+      213: 2603630417213500231
+    second: Female_Animations-Sheet_29
+  - first:
+      213: -2015952588894318371
+    second: Female_Animations-Sheet_30
+  - first:
+      213: 6716574623935488013
+    second: Female_Animations-Sheet_31
+  - first:
+      213: -635989673762355899
+    second: Female_Animations-Sheet_32
+  - first:
+      213: 1701979169396731792
+    second: Female_Animations-Sheet_33
+  - first:
+      213: 1081333138557482351
+    second: Female_Animations-Sheet_34
+  - first:
+      213: -6990847561857942445
+    second: Female_Animations-Sheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 991
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1bb801544ec47e0800000000000000
+      internalID: -1779796767436721679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 959
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f488ccdbe3d195e0800000000000000
+      internalID: -1904508157426105097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 927
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a5fdc4cb11e4b00800000000000000
+      internalID: 814608083041868299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 895
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d52e0d01bf80150800000000000000
+      internalID: 5839192966528392510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 863
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1eff1d82486e430800000000000000
+      internalID: 3811879445472469481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 831
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d77cc9d42d10a310800000000000000
+      internalID: 1414162327104419797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 799
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30971922dab26b40800000000000000
+      internalID: 5432109512357548092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 767
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6244e8bde7f812130800000000000000
+      internalID: 3540268557102105638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 735
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9e9c0fcfa4eaab0800000000000000
+      internalID: -4994972486475322975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 703
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b10ceda5edd1ac0800000000000000
+      internalID: -3882702821857944762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 671
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07344a1c4360ad90800000000000000
+      internalID: -7088556634971818230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 639
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49522e0921f51fc00800000000000000
+      internalID: 932631131187193236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 607
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2432549571613d90800000000000000
+      internalID: -7119802378268560342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 575
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10744b78a7a1f8240800000000000000
+      internalID: 4796081241737938689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 543
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346aaeb549b2a6670800000000000000
+      internalID: 8532680360204084803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 511
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea056c5ebe1610e0800000000000000
+      internalID: -2299616756783314201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 479
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df9fd537fedb6770800000000000000
+      internalID: 8605216666363600856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 447
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4843c1c802e3b2050800000000000000
+      internalID: 5776779256543327364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 415
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650a398915559990800000000000000
+      internalID: -7379898846211865236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 383
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94de3c384befee7e0800000000000000
+      internalID: -1734168755232838327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 351
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61ad05231db0690800000000000000
+      internalID: -7634778729241504042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f5a807e17be1b70800000000000000
+      internalID: 8871729657331474269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 293
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3313d861ca98594b0800000000000000
+      internalID: -5434286003146903245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d79e6cb0614610800000000000000
+      internalID: 1603669304746170360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 261
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2431cc250bbebbe00800000000000000
+      internalID: 1061701279711761218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a994917e119e986f0800000000000000
+      internalID: -681757605469009510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572090e56ef0d2d40800000000000000
+      internalID: 5561118596966974069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ab3c250db43e0b0800000000000000
+      internalID: -5700629345207076229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1de9fe3199fb0490800000000000000
+      internalID: -7778849529130259172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba960e114f12420800000000000000
+      internalID: 2603630417213500231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 159
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0dce62dc5e504e0800000000000000
+      internalID: -2015952588894318371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e317d801163d50800000000000000
+      internalID: 6716574623935488013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 95
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5450496e2c28c27f0800000000000000
+      internalID: -635989673762355899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fa10f7905ae9710800000000000000
+      internalID: 1701979169396731792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b397a2caa10f00800000000000000
+      internalID: 1081333138557482351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_Animations-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c3d8c7e258bfe90800000000000000
+      internalID: -6990847561857942445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
