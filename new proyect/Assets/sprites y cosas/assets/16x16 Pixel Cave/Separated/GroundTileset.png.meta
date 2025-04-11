@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GroundTileset_0: -898201131174279650
+      GroundTileset_1: -5312732666240213166
+      GroundTileset_10: -3050483052594786489
+      GroundTileset_11: 817192990402723455
+      GroundTileset_12: 5916890037204683656
+      GroundTileset_13: -5951233826941290212
+      GroundTileset_14: -4603742003993833773
+      GroundTileset_15: 5668067313444581881
+      GroundTileset_16: -2262058637458314484
+      GroundTileset_17: -3887484518333617686
+      GroundTileset_18: -8225427499270632249
+      GroundTileset_19: 1620668250978294735
+      GroundTileset_2: 3476268782356647881
+      GroundTileset_20: 329386587795858185
+      GroundTileset_21: -7754652847047935078
+      GroundTileset_22: 4518962114963409325
+      GroundTileset_23: 4041973113936877849
+      GroundTileset_24: 7872145120128421888
+      GroundTileset_3: 3041897164867490823
+      GroundTileset_4: 4252869761871440881
+      GroundTileset_5: -3766305887361492527
+      GroundTileset_6: 4823558217802821560
+      GroundTileset_7: -930207280902182715
+      GroundTileset_8: -2499836191962927088
+      GroundTileset_9: 2549555114951047400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

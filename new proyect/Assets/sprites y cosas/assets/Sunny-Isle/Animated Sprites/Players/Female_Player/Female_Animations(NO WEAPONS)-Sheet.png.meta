@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Female_Animations(NO WEAPONS)-Sheet_0: 299034122789440562
+      Female_Animations(NO WEAPONS)-Sheet_1: -4967826862214998178
+      Female_Animations(NO WEAPONS)-Sheet_10: -5637392055903533136
+      Female_Animations(NO WEAPONS)-Sheet_11: 3833466367467368965
+      Female_Animations(NO WEAPONS)-Sheet_12: -2708676943555062400
+      Female_Animations(NO WEAPONS)-Sheet_13: 6883898400153100628
+      Female_Animations(NO WEAPONS)-Sheet_14: 5966609353547805652
+      Female_Animations(NO WEAPONS)-Sheet_15: -9171851316630562689
+      Female_Animations(NO WEAPONS)-Sheet_2: 3353897594786621084
+      Female_Animations(NO WEAPONS)-Sheet_3: -6124420969332095950
+      Female_Animations(NO WEAPONS)-Sheet_4: -8632246198539288159
+      Female_Animations(NO WEAPONS)-Sheet_5: 7956194251087089388
+      Female_Animations(NO WEAPONS)-Sheet_6: -9114822645270882398
+      Female_Animations(NO WEAPONS)-Sheet_7: -6985257001011901218
+      Female_Animations(NO WEAPONS)-Sheet_8: -2288901285844949455
+      Female_Animations(NO WEAPONS)-Sheet_9: -4236324797707790678
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

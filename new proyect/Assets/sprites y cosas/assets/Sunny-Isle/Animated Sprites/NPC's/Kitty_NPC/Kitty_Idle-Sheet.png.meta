@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kitty_Idle-Sheet_0: 2042147014936836131
+      Kitty_Idle-Sheet_1: 7284546974053351480
+      Kitty_Idle-Sheet_2: -4150412760643057182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

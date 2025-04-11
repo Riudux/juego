@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Koala_Idle-Sheet_0: -6468055157234881869
+      Koala_Idle-Sheet_1: -2590687131727155460
+      Koala_Idle-Sheet_2: -2576705934036896127
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

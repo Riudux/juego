@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fish Animations-Sheet_0: 1874191836642290983
+      Fish Animations-Sheet_1: -459292896897624582
+      Fish Animations-Sheet_2: -4856118538590450295
+      Fish Animations-Sheet_3: 978978921081728946
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

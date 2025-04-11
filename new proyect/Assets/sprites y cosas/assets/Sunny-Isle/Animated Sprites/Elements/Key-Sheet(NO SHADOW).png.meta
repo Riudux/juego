@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Key-Sheet(NO SHADOW)_0: 1597958532966258655
+      Key-Sheet(NO SHADOW)_1: -5757821801340880662
+      Key-Sheet(NO SHADOW)_2: 1638404010997596199
+      Key-Sheet(NO SHADOW)_3: -9148590635421819561
+      Key-Sheet(NO SHADOW)_4: 2816759124163855106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

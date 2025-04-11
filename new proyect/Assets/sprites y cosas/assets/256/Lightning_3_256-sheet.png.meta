@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lightning_3_256-sheet_0: 8616870181212600351
+      Lightning_3_256-sheet_1: 4486229998018726924
+      Lightning_3_256-sheet_10: 7847906035423172170
+      Lightning_3_256-sheet_2: -847461120362191636
+      Lightning_3_256-sheet_3: 6611684955501810189
+      Lightning_3_256-sheet_4: -4731212716938529633
+      Lightning_3_256-sheet_5: 5712557005777080921
+      Lightning_3_256-sheet_6: 5067505379197883330
+      Lightning_3_256-sheet_7: -5732854365942519723
+      Lightning_3_256-sheet_8: 4301525014911391523
+      Lightning_3_256-sheet_9: -7595242836892654122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trees-and-Bushes_0: -8366996675387194903
+      Trees-and-Bushes_1: 994959223286836004
+      Trees-and-Bushes_2: 6690807617822228980
+      Trees-and-Bushes_3: -6129094413912829227
+      Trees-and-Bushes_4: -3099442399011043507
+      Trees-and-Bushes_5: -1520440643573285678
+      Trees-and-Bushes_6: -6566912317347967577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Coin-Shee(NO SHADOW)t_0: -8775355626019930141
+      Coin-Shee(NO SHADOW)t_1: 6743585073206984043
+      Coin-Shee(NO SHADOW)t_2: -71355216131854057
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

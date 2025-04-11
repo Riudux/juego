@@ -1022,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Female_Animations-Sheet_0: -1779796767436721679
+      Female_Animations-Sheet_1: -1904508157426105097
+      Female_Animations-Sheet_10: -7088556634971818230
+      Female_Animations-Sheet_11: 932631131187193236
+      Female_Animations-Sheet_12: -7119802378268560342
+      Female_Animations-Sheet_13: 4796081241737938689
+      Female_Animations-Sheet_14: 8532680360204084803
+      Female_Animations-Sheet_15: -2299616756783314201
+      Female_Animations-Sheet_16: 8605216666363600856
+      Female_Animations-Sheet_17: 5776779256543327364
+      Female_Animations-Sheet_18: -7379898846211865236
+      Female_Animations-Sheet_19: -1734168755232838327
+      Female_Animations-Sheet_2: 814608083041868299
+      Female_Animations-Sheet_20: -7634778729241504042
+      Female_Animations-Sheet_21: 8871729657331474269
+      Female_Animations-Sheet_22: -5434286003146903245
+      Female_Animations-Sheet_23: 1603669304746170360
+      Female_Animations-Sheet_24: 1061701279711761218
+      Female_Animations-Sheet_25: -681757605469009510
+      Female_Animations-Sheet_26: 5561118596966974069
+      Female_Animations-Sheet_27: -5700629345207076229
+      Female_Animations-Sheet_28: -7778849529130259172
+      Female_Animations-Sheet_29: 2603630417213500231
+      Female_Animations-Sheet_3: 5839192966528392510
+      Female_Animations-Sheet_30: -2015952588894318371
+      Female_Animations-Sheet_31: 6716574623935488013
+      Female_Animations-Sheet_32: -635989673762355899
+      Female_Animations-Sheet_33: 1701979169396731792
+      Female_Animations-Sheet_34: 1081333138557482351
+      Female_Animations-Sheet_35: -6990847561857942445
+      Female_Animations-Sheet_4: 3811879445472469481
+      Female_Animations-Sheet_5: 1414162327104419797
+      Female_Animations-Sheet_6: 5432109512357548092
+      Female_Animations-Sheet_7: 3540268557102105638
+      Female_Animations-Sheet_8: -4994972486475322975
+      Female_Animations-Sheet_9: -3882702821857944762
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

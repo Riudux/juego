@@ -148,7 +148,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -1072,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      buttonsSheet_0: 6929937949998813950
+      buttonsSheet_1: -3946861312842386197
+      buttonsSheet_10: 8324127339422661675
+      buttonsSheet_11: -113029538776410568
+      buttonsSheet_12: -7355974933713232408
+      buttonsSheet_13: -6917236206829549244
+      buttonsSheet_14: -4420476124204083061
+      buttonsSheet_15: -8854104643875374915
+      buttonsSheet_16: 7057772868540081953
+      buttonsSheet_17: -4261471008046487164
+      buttonsSheet_18: 8624818531292183310
+      buttonsSheet_19: 5600490988398184304
+      buttonsSheet_2: -269205880360228264
+      buttonsSheet_20: -4816185093782944533
+      buttonsSheet_21: -173746727860771821
+      buttonsSheet_22: 5045356972350868945
+      buttonsSheet_23: -8256345630116121725
+      buttonsSheet_24: -5020597453914508575
+      buttonsSheet_25: -6576077770984619662
+      buttonsSheet_26: -456569519666570573
+      buttonsSheet_27: 8950625513248028137
+      buttonsSheet_28: -2167196270320021939
+      buttonsSheet_29: -1264898593221472622
+      buttonsSheet_3: 1145553352837839545
+      buttonsSheet_30: -3543409388851626644
+      buttonsSheet_31: 6380327256997405273
+      buttonsSheet_32: 4503338731993761891
+      buttonsSheet_33: 8841622099073710916
+      buttonsSheet_34: 6755690969529194107
+      buttonsSheet_35: 1131875801085021890
+      buttonsSheet_36: -7337309255230152571
+      buttonsSheet_37: 7091960427494452187
+      buttonsSheet_4: -7499589871767224413
+      buttonsSheet_5: -6571131561245967190
+      buttonsSheet_6: 4399406814302932129
+      buttonsSheet_7: -6031241732554525782
+      buttonsSheet_8: 5591924471989963953
+      buttonsSheet_9: -8639937472530786661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

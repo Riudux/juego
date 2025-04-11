@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BatNoShadow_0: 2625509517568686480
+      BatNoShadow_1: 2955107689252717426
+      BatNoShadow_10: -1295333224817366239
+      BatNoShadow_11: 4597617545833956276
+      BatNoShadow_12: 7373993481842618188
+      BatNoShadow_13: -9189903843986610354
+      BatNoShadow_14: -4978551503390198155
+      BatNoShadow_15: -1033091939208762401
+      BatNoShadow_16: 8576100960697909345
+      BatNoShadow_17: 6893160848029817911
+      BatNoShadow_18: -3824107066665627234
+      BatNoShadow_19: 3404686966211422402
+      BatNoShadow_2: -6851382490528887357
+      BatNoShadow_20: 6512559516580490338
+      BatNoShadow_21: 4921375643167759451
+      BatNoShadow_3: 5786641409745933151
+      BatNoShadow_4: 39895968029654905
+      BatNoShadow_5: -2837358693663304778
+      BatNoShadow_6: 1576553529544964693
+      BatNoShadow_7: 771322000943267596
+      BatNoShadow_8: -8426357854155880305
+      BatNoShadow_9: -4226104848178160072
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

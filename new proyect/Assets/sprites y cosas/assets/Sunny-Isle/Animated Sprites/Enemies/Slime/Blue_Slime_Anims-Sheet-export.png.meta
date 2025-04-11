@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_Slime_Anims-Sheet-export_0: 2028997104718028383
+      Blue_Slime_Anims-Sheet-export_1: -1825668404743856240
+      Blue_Slime_Anims-Sheet-export_10: -3942279966315662867
+      Blue_Slime_Anims-Sheet-export_11: 112288368102515142
+      Blue_Slime_Anims-Sheet-export_12: -5561137384280885944
+      Blue_Slime_Anims-Sheet-export_13: 5930869096621501231
+      Blue_Slime_Anims-Sheet-export_14: -168796952498281208
+      Blue_Slime_Anims-Sheet-export_2: -1924343336809320952
+      Blue_Slime_Anims-Sheet-export_3: -5462458716187379756
+      Blue_Slime_Anims-Sheet-export_4: -1778542957173214238
+      Blue_Slime_Anims-Sheet-export_5: 3839385905459205862
+      Blue_Slime_Anims-Sheet-export_6: -9173688981285917962
+      Blue_Slime_Anims-Sheet-export_7: 3420901303818642089
+      Blue_Slime_Anims-Sheet-export_8: -1913132409338741705
+      Blue_Slime_Anims-Sheet-export_9: -5485140026198971180
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

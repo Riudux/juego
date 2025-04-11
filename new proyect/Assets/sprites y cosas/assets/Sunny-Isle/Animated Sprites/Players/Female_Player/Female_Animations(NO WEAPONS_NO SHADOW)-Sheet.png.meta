@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_0: 3310562968187524107
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_1: -2831950898139102445
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_10: 8888631752883410304
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_11: 3689470716660659248
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_12: -6296954095548760993
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_13: 7717192333299721880
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_14: 4390948754971929093
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_15: -3968536398805455012
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_2: -7815609284443046032
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_3: 1522995561615528993
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_4: -6077164720315779887
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_5: -4017350757661303139
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_6: 1356875545555287539
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_7: 1851323377779030631
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_8: -2852430039624502993
+      Female_Animations(NO WEAPONS_NO SHADOW)-Sheet_9: -9046834622116069860
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

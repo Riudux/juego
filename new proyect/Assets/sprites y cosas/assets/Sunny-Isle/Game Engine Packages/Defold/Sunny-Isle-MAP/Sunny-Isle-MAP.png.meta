@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sunny-Isle-MAP_0: -6330641550203845675
+      Sunny-Isle-MAP_1: -4902560121482731399
+      Sunny-Isle-MAP_2: -3825242814132331902
+      Sunny-Isle-MAP_3: -8072528569715372917
+      Sunny-Isle-MAP_4: 548463984010594757
+      Sunny-Isle-MAP_5: -9010482813239520772
+      Sunny-Isle-MAP_6: -3267453714493099497
+      Sunny-Isle-MAP_7: -2952195717791168223
+      Sunny-Isle-MAP_8: 1110278459555743508
+      Sunny-Isle-MAP_9: -3180181085593199705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

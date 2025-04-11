@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_0: -2996304108415463274
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_1: 5443034844767622800
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_10: 3345523944635094758
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_11: 9210979633958285960
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_12: 4049577686852634684
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_13: 2125464209828529381
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_14: 9180742732316148951
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_15: 6333785555642329620
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_2: -4945035385722371354
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_3: -2805640649704260948
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_4: -6719088260288895715
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_5: -4291778258662879273
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_6: 5488467623626928611
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_7: 839936275174522219
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_8: -2045382581240588232
+      Male_Animations(NO WEAPONS_NO SHADOW)-Sheet_9: -1666017921948122593
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

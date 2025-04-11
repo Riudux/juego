@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kitty_Idle-Sheet(NO SHADOW)_0: -5254206855484860341
+      Kitty_Idle-Sheet(NO SHADOW)_1: -129264139915152549
+      Kitty_Idle-Sheet(NO SHADOW)_2: 2608304351466386910
+      Kitty_Idle-Sheet(NO SHADOW)_3: 9131626257593542526
+      Kitty_Idle-Sheet(NO SHADOW)_4: 7547607969950816932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

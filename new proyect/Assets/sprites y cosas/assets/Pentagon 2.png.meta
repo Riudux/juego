@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pentagon 2_0: -6878881822820014525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

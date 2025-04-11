@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red DefaultCharacter-Idle_0: -1536802197202671835
+      Red DefaultCharacter-Idle_1: 1326083258545643684
+      Red DefaultCharacter-Idle_2: 6005254009429919436
+      Red DefaultCharacter-Idle_3: 7370418363672488096
+      Red DefaultCharacter-Idle_4: -1952738359380070510
+      Red DefaultCharacter-Idle_5: 7146196711283751865
+      Red DefaultCharacter-Idle_6: -6229866278387275346
+      Red DefaultCharacter-Idle_7: -4754306509539065577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

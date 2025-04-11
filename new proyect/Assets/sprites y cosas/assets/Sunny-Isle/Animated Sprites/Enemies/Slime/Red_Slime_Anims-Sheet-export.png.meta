@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_Slime_Anims-Sheet-export_0: -360738430522868689
+      Red_Slime_Anims-Sheet-export_1: -356463862673382543
+      Red_Slime_Anims-Sheet-export_10: -6040563728850119602
+      Red_Slime_Anims-Sheet-export_11: 2532435199738932537
+      Red_Slime_Anims-Sheet-export_12: 6816290090734483304
+      Red_Slime_Anims-Sheet-export_13: 9172261285004761745
+      Red_Slime_Anims-Sheet-export_14: -1626340887892153456
+      Red_Slime_Anims-Sheet-export_2: 8819497510445594223
+      Red_Slime_Anims-Sheet-export_3: -1332882036420624361
+      Red_Slime_Anims-Sheet-export_4: -6216918861153136236
+      Red_Slime_Anims-Sheet-export_5: -5476121831065031213
+      Red_Slime_Anims-Sheet-export_6: -4640329075549386153
+      Red_Slime_Anims-Sheet-export_7: 2671350322446053347
+      Red_Slime_Anims-Sheet-export_8: -6216739087647887634
+      Red_Slime_Anims-Sheet-export_9: 3820296395234405694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Male_Animations(NO WEAPONS)-Sheet_0: -7078952877560723822
+      Male_Animations(NO WEAPONS)-Sheet_1: -3168015091385031006
+      Male_Animations(NO WEAPONS)-Sheet_10: -5522162344055328014
+      Male_Animations(NO WEAPONS)-Sheet_11: -4423198693318969842
+      Male_Animations(NO WEAPONS)-Sheet_12: 6330406621904794258
+      Male_Animations(NO WEAPONS)-Sheet_13: -3807095279821108881
+      Male_Animations(NO WEAPONS)-Sheet_14: -6190757466603322482
+      Male_Animations(NO WEAPONS)-Sheet_15: 5086233887191648877
+      Male_Animations(NO WEAPONS)-Sheet_2: 4082008677166777845
+      Male_Animations(NO WEAPONS)-Sheet_3: -7991907527950583957
+      Male_Animations(NO WEAPONS)-Sheet_4: -4752589392350937538
+      Male_Animations(NO WEAPONS)-Sheet_5: 1946541163398818251
+      Male_Animations(NO WEAPONS)-Sheet_6: 6693498442512874344
+      Male_Animations(NO WEAPONS)-Sheet_7: -1824139107354227550
+      Male_Animations(NO WEAPONS)-Sheet_8: 6577115663769756199
+      Male_Animations(NO WEAPONS)-Sheet_9: -5096602890609489320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

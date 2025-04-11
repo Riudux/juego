@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Defeated Characters_0: -7052374639796323894
+      Defeated Characters_1: -4334531142802289230
+      Defeated Characters_2: -9018103990108318254
+      Defeated Characters_3: -5392343628659761482
+      Defeated Characters_4: -8498481141906816550
+      Defeated Characters_5: -8292047134013652672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

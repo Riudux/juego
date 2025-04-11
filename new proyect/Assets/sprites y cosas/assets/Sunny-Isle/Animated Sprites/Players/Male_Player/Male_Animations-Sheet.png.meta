@@ -1022,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Male_Animations-Sheet_0: 1879711165075069688
+      Male_Animations-Sheet_1: 4467358101608269986
+      Male_Animations-Sheet_10: 8786495223035151332
+      Male_Animations-Sheet_11: 2357826300543214175
+      Male_Animations-Sheet_12: -8089434421356709558
+      Male_Animations-Sheet_13: -563388611702217297
+      Male_Animations-Sheet_14: -3603570990351757927
+      Male_Animations-Sheet_15: -1626053664431386144
+      Male_Animations-Sheet_16: 8904866781155088782
+      Male_Animations-Sheet_17: 6512090495629251281
+      Male_Animations-Sheet_18: -500190492954561237
+      Male_Animations-Sheet_19: -1746725654429957500
+      Male_Animations-Sheet_2: -8270689037422824622
+      Male_Animations-Sheet_20: 5951983234036278805
+      Male_Animations-Sheet_21: 2983720213058514917
+      Male_Animations-Sheet_22: 2568536684242950511
+      Male_Animations-Sheet_23: 1557674765897079242
+      Male_Animations-Sheet_24: -2786992136268276251
+      Male_Animations-Sheet_25: -3117293262911196314
+      Male_Animations-Sheet_26: 8331163028560069770
+      Male_Animations-Sheet_27: -2895554559877744938
+      Male_Animations-Sheet_28: -6438204738817044941
+      Male_Animations-Sheet_29: -1865710185327326967
+      Male_Animations-Sheet_3: 197619334459021571
+      Male_Animations-Sheet_30: -2502301257826253881
+      Male_Animations-Sheet_31: 4229156893283635535
+      Male_Animations-Sheet_32: 1389858817716414589
+      Male_Animations-Sheet_33: -645421126571723574
+      Male_Animations-Sheet_34: 1988331593130227511
+      Male_Animations-Sheet_35: -1850902230236610414
+      Male_Animations-Sheet_4: 8735916258481317060
+      Male_Animations-Sheet_5: -8559659513870201560
+      Male_Animations-Sheet_6: 7968117587639923990
+      Male_Animations-Sheet_7: -6896107053222372695
+      Male_Animations-Sheet_8: -4214918413977877239
+      Male_Animations-Sheet_9: 5118059224862122727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

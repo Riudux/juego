@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grass Land Tiles_0: -3213380548598971204
+      Grass Land Tiles_1: -1953292032297144196
+      Grass Land Tiles_10: -708535209524060178
+      Grass Land Tiles_11: -4613840917037159740
+      Grass Land Tiles_2: 1632521152707218571
+      Grass Land Tiles_3: 2865649511376302735
+      Grass Land Tiles_4: -5124460466481304108
+      Grass Land Tiles_5: -8962568809063549097
+      Grass Land Tiles_6: 3412094761606793958
+      Grass Land Tiles_7: -3475171698424749060
+      Grass Land Tiles_8: 6415341973338243542
+      Grass Land Tiles_9: 7544591832580872814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

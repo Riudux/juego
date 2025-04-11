@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_0: 8234865726581173764
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_1: 4086429723909388226
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_10: 7784569093973110997
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_11: -3321136012127984905
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_12: 472947904429894353
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_13: 6290298514333536238
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_2: -701031168798807082
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_3: -8334679469742833950
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_4: 6684618737540126715
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_5: 4829714274315845779
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_6: -1816298899962376653
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_7: 8977108790686899661
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_8: -4967298451329696322
+      Blue_Slime_Anims-Sheet(NO SHADOW)-export_9: 5434725183981132664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

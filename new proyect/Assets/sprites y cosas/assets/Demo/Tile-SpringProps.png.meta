@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tile-SpringProps_0: -1094596703946344323
+      Tile-SpringProps_1: 6448484983760563262
+      Tile-SpringProps_10: -26734891858883937
+      Tile-SpringProps_11: -5221831267991611488
+      Tile-SpringProps_12: 1988075657134092430
+      Tile-SpringProps_13: 1358157142062333152
+      Tile-SpringProps_14: 238472794613294598
+      Tile-SpringProps_2: -4194326186095691820
+      Tile-SpringProps_3: 5022790874538732931
+      Tile-SpringProps_4: 5441077946365197433
+      Tile-SpringProps_5: -2227362932118290513
+      Tile-SpringProps_6: 7858052302663545034
+      Tile-SpringProps_7: -8418889166513646505
+      Tile-SpringProps_8: 5138859497559276929
+      Tile-SpringProps_9: 7462704076098434415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

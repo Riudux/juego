@@ -872,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FireBall_Animations-Sheet_0: -9080383643943557689
+      FireBall_Animations-Sheet_1: 827013052734624916
+      FireBall_Animations-Sheet_10: -8848967888681230323
+      FireBall_Animations-Sheet_11: 8399658678172039050
+      FireBall_Animations-Sheet_12: -6551873704588870608
+      FireBall_Animations-Sheet_13: -3497498221210008843
+      FireBall_Animations-Sheet_14: -8205902730843114673
+      FireBall_Animations-Sheet_15: 801042642478952907
+      FireBall_Animations-Sheet_16: -5764381081250865971
+      FireBall_Animations-Sheet_17: -1949218353524815362
+      FireBall_Animations-Sheet_18: -1518753045452630485
+      FireBall_Animations-Sheet_19: -5522558855803374370
+      FireBall_Animations-Sheet_2: 4725599784670314640
+      FireBall_Animations-Sheet_20: 4074207423109294259
+      FireBall_Animations-Sheet_21: 5302171858714040543
+      FireBall_Animations-Sheet_22: -5687367482763981366
+      FireBall_Animations-Sheet_23: -7245774076965561533
+      FireBall_Animations-Sheet_24: -3670828924671804803
+      FireBall_Animations-Sheet_25: 8928188666283460506
+      FireBall_Animations-Sheet_26: 894564235536311359
+      FireBall_Animations-Sheet_27: 5108697872070641675
+      FireBall_Animations-Sheet_28: -3161365649270540432
+      FireBall_Animations-Sheet_29: -9102904547205583793
+      FireBall_Animations-Sheet_3: 1209969420025155454
+      FireBall_Animations-Sheet_4: 981327197918292463
+      FireBall_Animations-Sheet_5: 909106434898184579
+      FireBall_Animations-Sheet_6: -1036130688686286946
+      FireBall_Animations-Sheet_7: 7402834900644344979
+      FireBall_Animations-Sheet_8: -4686109517888486279
+      FireBall_Animations-Sheet_9: 8672025146896494034
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

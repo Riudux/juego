@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chimney-Smoke-Sheet_0: 6611736085466287180
+      Chimney-Smoke-Sheet_1: 1591661889029810753
+      Chimney-Smoke-Sheet_10: -8479541364714343904
+      Chimney-Smoke-Sheet_11: 7404386328369001759
+      Chimney-Smoke-Sheet_12: -1586509352197501812
+      Chimney-Smoke-Sheet_2: 3379715715603101025
+      Chimney-Smoke-Sheet_3: -1183843769579339222
+      Chimney-Smoke-Sheet_4: 4393392209727862792
+      Chimney-Smoke-Sheet_5: -2119780342595445520
+      Chimney-Smoke-Sheet_6: -5826928075646927079
+      Chimney-Smoke-Sheet_7: 8337996985624403286
+      Chimney-Smoke-Sheet_8: 8282730005989321768
+      Chimney-Smoke-Sheet_9: 4005205496107474483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
